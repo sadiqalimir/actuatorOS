@@ -4,7 +4,7 @@
 **Team Members:**
 1. Sadiq Ali Mir
 2. Suhana Arsh
-3. Vererabhadrya Roogi
+3. Vererabhadrya C Roogi
 
 **Course Information:**
 - Course Name: Fundamentals of Avionics
@@ -12,7 +12,7 @@
 
 ## Project Overview:
 
-Welcome to our Experiential Learning project on designing an Electrical Actuator Operating System for avionics. This project is part of the "Fundamentals of Avionics" course, where we, as top aerospace engineering students, aim to develop a microcontroller-based system that controls two electrical actuators with linear extension and retraction in synchronization. The primary objective of this project is to create an efficient and precise control system that can be used in various avionics applications to enhance safety and performance.
+Welcome to our Experiential Learning project on designing an Electrical Actuator Operating System for avionics. This project is part of the "Fundamentals of Avionics" course, where we, as aerospace engineering students, aim to develop a microcontroller-based system that controls two electrical actuators with linear extension and retraction in synchronization. The primary objective of this project is to create an efficient and precise control system that can be used in various avionics applications to enhance safety and performance.
 
 ## Problem Statement:
 
