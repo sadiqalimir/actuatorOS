@@ -4,7 +4,7 @@
 **Team Members:**
 1. Suhana Aesh
 2. Sadiq Ali Mir
-3. Vererabhadrya C Roogi
+3. Veerabhadrayya C Roogi
 
 **Course Information:**
 - Course Name: Fundamentals of Avionics
@@ -55,12 +55,17 @@ Our GitHub repository serves as the central hub for all project-related files an
 2. **Simulink_Model:** Includes the Simulink-based model developed to validate the Electrical Actuator Operating System's behavior and performance.
 
 3. **Hardware_Design:** Contains the hardware design files, including schematics, PCB layouts, and component specifications.
+   
+5. Arduino_Code: Contains the Arduino microcontroller code that drives the Electrical Actuator Operating System. The code includes the algorithms for actuator control, sensor interfacing, and communication with other system components.
+   
+7. **CAD_Files:** Holds the Computer-Aided Design (CAD) files for the mechanical components and assembly of the Electrical Actuator Operating System. This directory contains 3D models and drawings of the actuators, mounting brackets, and any other mechanical parts.
+   
+9. **Control_Algorithms:** Includes the source code and implementation of the control algorithms for precise actuator control.
 
-4. **Control_Algorithms:** Includes the source code and implementation of the control algorithms for precise actuator control.
+10. **Testing_and_Validation:** Contains test cases, experimental data, and results obtained during system validation.
 
-5. **Testing_and_Validation:** Contains test cases, experimental data, and results obtained during system validation.
+11. **Documentation:** Holds the final project report, presentation slides, and any additional documentation.
 
-6. **Documentation:** Holds the final project report, presentation slides, and any additional documentation.
 
 ## Note to Visitors:
 
@@ -68,7 +73,7 @@ We invite you to explore our GitHub repository to gain insights into our Experie
 
 ## Acknowledgments:
 
-We express our heartfelt gratitude to Professor Deepak Bana for his invaluable guidance, mentorship, and support throughout the "Fundamentals of Avionics" course and this Experiential Learning project. We also extend our thanks to our peers for their collaboration and contributions to the success of this endeavor.
+We express our heartfelt gratitude to *Professor Deepak Bana* for his invaluable guidance, mentorship, and support throughout the "Fundamentals of Avionics" course and this Experiential Learning project. We also extend our thanks to our peers for their collaboration and contributions to the success of this endeavor.
 
 ## Disclaimer:
 
