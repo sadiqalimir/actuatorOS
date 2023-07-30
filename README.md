@@ -56,7 +56,7 @@ Our GitHub repository serves as the central hub for all project-related files an
 
 3. **Hardware_Design:** Contains the hardware design files, including schematics, PCB layouts, and component specifications.
    
-5. Arduino_Code: Contains the Arduino microcontroller code that drives the Electrical Actuator Operating System. The code includes the algorithms for actuator control, sensor interfacing, and communication with other system components.
+5. **Arduino_Code:** Contains the Arduino microcontroller code that drives the Electrical Actuator Operating System. The code includes the algorithms for actuator control, sensor interfacing, and communication with other system components.
    
 7. **CAD_Files:** Holds the Computer-Aided Design (CAD) files for the mechanical components and assembly of the Electrical Actuator Operating System. This directory contains 3D models and drawings of the actuators, mounting brackets, and any other mechanical parts.
    
