@@ -2,8 +2,8 @@
 **Experiential Learning Project: Electrical Actuator Operating System for Avionics**
 
 **Team Members:**
-1. Suhana Aesh
-2. Sadiq Ali Mir
+1. Suhana Arsh
+2. Sadiq Ali
 3. Veerabhadrayya C Roogi
 
 **Course Information:**
